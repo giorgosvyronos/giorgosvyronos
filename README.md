@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Giorgos 👋
 
-Find out more about me at:
+![Giorgos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgosvyronos&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgosvyronos&langs_count=10&layout=compact)](https://github.com/giorgosvyronos/)
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Giorgos%20Vyronos&style=social&url=https%3A%2F%2Ftwitter.com%2Fgiorgosvyronos)](https://twitter.com/giorgosvyronos)
-[![](https://img.shields.io/badge/-Portfolio-brightgreen)](https://giorgosvyronos.wixsite.com/portfolio)
-[![LinkedIn](https://img.shields.io/badge/Giorgos\_Vyronos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-vyronos/)
-
-
-![Giorgos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgosvyronos&show_icons=true&theme=radical)
+Feel free to check my repos below!
